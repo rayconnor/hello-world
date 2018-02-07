@@ -1,5 +1,4 @@
 # hello-world
 
-hello earth
-
-This is marsbot and i came here to study earth because the creators are going to destory or save it depending on me
+Earthlings
+I am MARSBot and I have come to see if you are worthy of Mars and the other Plants and Moons of your solar system
